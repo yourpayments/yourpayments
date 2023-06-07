@@ -1,6 +1,7 @@
 ### «Твои Платежи» - Приём платежей для сайтов, приложений, игр и платформ
 💖 [Заявка на подключение](https://ypmn.ru/ru/connect/?utm_source=github_index)
 📍 [Контакты](https://ypmn.ru/ru/contacts/?utm_source=github_index)
+❓ [Частые вопросы](https://dev.ypmn.ru/ru/faq/)
 
 ![](https://ypmn.ru/s/img/ypmn_window-green.png)
 
