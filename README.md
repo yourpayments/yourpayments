@@ -1,7 +1,7 @@
 ### «Твои Платежи» - Платежи для сайтов, приложений, игр и платформ
 💖 [Заявка на подключение](https://ypmn.ru/ru/connect/?utm_source=github_index)
 📍 [Контакты](https://ypmn.ru/ru/contacts/?utm_source=github_index)
-⚙ [Разработчикам](https://ypmn.ru/ru/documentation/)
+⚙ [Разработчикам](https://ypmn.ru/ru/documentation/?utm_source=github_index)
 
 ![](https://ypmn.ru/s/img/ypmn_window-green.png)
 
@@ -13,4 +13,4 @@
 
 Если вашего языка ещё нет в списке -- ничего страшного, свяжитесь с нами, и мы поможем.
 
-⚙ [Подробная документация](https://github.com/yourpayments/php-api-client/?utm_source=github_index)
+⚙ [Подробная документация](https://ypmn.ru/ru/documentation/?utm_source=github_index)
